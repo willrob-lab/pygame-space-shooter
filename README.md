@@ -13,15 +13,15 @@ A simple arcade-style space shooter game built with Python and Pygame.
 - Destroy enemies and avoid getting hit
 
 ## Installation 
--clone the repo 
+-copy and paste this in your terminal: 
 git clone https://github.com/willrob-lab/pygame-space-shooter.git
 cd pygame-space-shooter
 
-_ install Pygame
-pip install pygame
+-install Pygame (if you dont have it already )
+paste this in your terminal: pip install pygame
 
 _Run game:
-python game.py
+paste this in your terminal: python game.py
 
 
 
