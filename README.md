@@ -14,15 +14,16 @@ A simple arcade-style space shooter game built with Python and Pygame.
 
 ## Installation 
 -copy and paste this in your terminal 1st: 
-git clone https://github.com/willrob-lab/pygame-space-shooter.git
-copy and paste this in your terminal 2nd:
-cd pygame-space-shooter
+      git clone https://github.com/willrob-lab/pygame-space-shooter.git
+
+copy and paste this in your terminal 2nd:  
+   cd pygame-space-shooter
 
 -install Pygame (if you dont have it already )
 paste this in your terminal: pip install pygame
 
 _Run game:
-paste this in your terminal: python game.py
+paste this in your terminal:    python game.py
 
 
 
